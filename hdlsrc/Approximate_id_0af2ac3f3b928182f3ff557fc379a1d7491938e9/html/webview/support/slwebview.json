@@ -1,0 +1,26 @@
+{
+ "baseUrl":"support/slwebview_files",
+ "homeHid":1,
+ "initialElement":"",
+ "sections":[
+  {
+   "hid":1,
+   "sid":"Approximate_id_0af2ac3f3b928182f3ff557fc379a1d7491938e9",
+   "name":"Approximate_id_0af2ac3f3b928182f3ff557fc379a1d7491938e9",
+   "fullname":"Approximate_id_0af2ac3f3b928182f3ff557fc379a1d7491938e9",
+   "label":"Approximate_id_0af2ac3f3b928182f3ff557fc379a1d7491938e9*",
+   "parent":0,
+   "descendants":[
+    2
+   ],
+   "hierarchyUrl":"support/slwebview_files/Approximate_id_0af2ac3f3b928182f3ff557fc379a1d7491938e9_h_1.json",
+   "backingUrl":"support/slwebview_files/Approximate_id_0af2ac3f3b928182f3ff557fc379a1d7491938e9_m.json"
+  }
+ ],
+ "optViews":[
+ ],
+ "display":{
+  "informer":false
+ },
+ "iconsUrl":"support/slwebview_files/Approximate_id_0af2ac3f3b928182f3ff557fc379a1d7491938e9_icons.css"
+}
